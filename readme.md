@@ -7,7 +7,7 @@ This repository is used for hosting MathArt Studio releases and collecting user 
 
 ### Latest Version / 最新版本
 
-**[Download Latest Release](https://github.com/USERNAME/mathart-dist/releases/latest)**
+**[Download Latest Release](https://github.com/yanjunnf/mathart-dist/releases/latest)**
 
 ### Alternative for Mainland China Users / 中国大陆用户备用下载
 
