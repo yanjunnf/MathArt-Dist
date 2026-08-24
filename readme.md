@@ -1,3 +1,5 @@
+
+
 # MathArt Studio Distribution Repository / 分发仓库
 
 This repository is used for hosting MathArt Studio releases and collecting user feedback.
@@ -14,7 +16,7 @@ This repository is used for hosting MathArt Studio releases and collecting user 
 If you are unable to access GitHub Releases, please visit our official website for alternative download links (e.g., 123 Pan).
 如果您无法访问 GitHub Releases，请访问我们的官网获取备用下载链接（如 123 云盘）。
 
-[Official Website / 官方网站](https://www.mathartstudio.art/)
+[Official Website / 官方网站](https://mathart.vercel.app/zh/download)
 
 ## 📝 Release Notes / 更新日志
 
